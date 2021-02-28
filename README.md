@@ -7,9 +7,9 @@
   <p>
     → <b>Blog:</b> <a href="https://karreiro.com">karreiro.com</a>, see my latest posts:
   </p>
+  <p>&nbsp; - Feb 28, 2021 - <a href="http://karreiro.com/2021/02/28/urlotw-pico-8-fantasy-console/">[URLOTW] PICO-8 Fantasy Console</a></p>
   <p>&nbsp; - Feb 21, 2021 - <a href="http://karreiro.com/2021/02/21/how-to-keep-your-github-profile-fresh-and-cool/">How to keep your Github profile fresh and cool</a></p>
   <p>&nbsp; - Feb 14, 2021 - <a href="http://karreiro.com/2021/02/14/learn-dmn-in-15-minutes-v2/">Learn DMN in 15 minutes (v2)</a></p>
-  <p>&nbsp; - Jan 24, 2021 - <a href="http://karreiro.com/2021/01/24/dmn-cli-imports-java-classes-as-data-types-now/">DMN-cli imports Java classes as data types now</a></p>
   <br />
   <p>
     → <b>Digital garden:</b> <a href="https://karreiro.com/wiki">karreiro.com/wiki</a>
