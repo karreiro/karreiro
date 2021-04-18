@@ -7,9 +7,9 @@
   <p>
     → <b>Blog:</b> <a href="https://karreiro.com">karreiro.com</a>, see my latest posts:
   </p>
+  <p>&nbsp; - Apr 18, 2021 - <a href="http://karreiro.com/2021/04/18/dmn-lives-in-the-kie-group-youtube-channel-part-2/">DMN lives in the KIE Group YouTube channel - Part 2</a></p>
   <p>&nbsp; - Apr 17, 2021 - <a href="http://karreiro.com/2021/04/17/urlotw-hyrums-law/">[URLOTW] Hyrum’s Law</a></p>
   <p>&nbsp; - Mar 30, 2021 - <a href="http://karreiro.com/2021/03/30/how-the-new-feel-code-completion-works-under-the-hoods/">How the new FEEL code-completion works under the hoods</a></p>
-  <p>&nbsp; - Mar 21, 2021 - <a href="http://karreiro.com/2021/03/21/how-to-get-your-web-app-up-to-20x-faster-its-a-clickbait/">How to get your web app up to 20x faster (it’s a clickbait)</a></p>
   <br />
   <p>
     → <b>Digital garden:</b> <a href="https://karreiro.com/wiki">karreiro.com/wiki</a>
