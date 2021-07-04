@@ -7,9 +7,9 @@
   <p>
     → <b>Blog:</b> <a href="https://karreiro.com">karreiro.com</a>, see my latest posts:
   </p>
-  <p>&nbsp; - May 30, 2021 - <a href="http://karreiro.com/2021/05/30/wasi-webassembly-system-interface/">WASI: WebAssembly System Interface</a></p>
-  <p>&nbsp; - May 26, 2021 - <a href="http://karreiro.com/2021/05/26/are-your-css-properties-expensive/">Are your CSS properties expensive?</a></p>
-  <p>&nbsp; - May 14, 2021 - <a href="http://karreiro.com/2021/05/14/urlotw-rust-gamedev-workgroups-monthly-newsletter/">[URLOTW] Rust GameDev Workgroup’s monthly newsletter</a></p>
+  <p>&nbsp; - Jun 26, 2021 - <a href="http://karreiro.com/2021/06/26/urlotw-the-master-guide-to-smooth-realistic-shadows-in-css/">[URLOTW] The master guide to smooth, realistic shadows in CSS</a></p>
+  <p>&nbsp; - Jun 20, 2021 - <a href="http://karreiro.com/2021/06/20/dmn-lives-in-the-kie-group-youtube-channel-part-3/">DMN lives in the KIE Group YouTube channel - Part 3</a></p>
+  <p>&nbsp; - Jun 19, 2021 - <a href="http://karreiro.com/2021/06/19/urlotw-glossary-explain-like-im-five/">[URLOTW] React: Glossary + Explain Like I’m Five</a></p>
   <br />
   <p>
     → <b>Digital garden:</b> <a href="https://karreiro.com/wiki">karreiro.com/wiki</a>
