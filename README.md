@@ -17,12 +17,6 @@
   <p>&nbsp; - It's a personal wiki where I keep my notes, discoveries, thoughts, and drafts 🌱</p>
   <br />
   <p>
-    → <b>Pet projects:</b>
-  </p>
-  <p>&nbsp; - <a href="https://learn-dmn-in-15-minutes.com">learn-dmn-in-15-minutes.com</a> is a 15 minutes course about DMN</p>
-  <p>&nbsp; - <a href="https://dmn-cli.com/">dmn-cli.com</a> easily manages, inspects, and previews batches of models</p>
-  <br />
-  <p>
     → <b>Wanna chat?</b> 👉 @ me on <a href="https://twitter.com/karreiro_">Twitter</a>!
   </p>
 </samp>
