@@ -7,9 +7,9 @@
   <p>
     → <b>Blog:</b> <a href="https://karreiro.com">karreiro.com</a>, see my latest posts:
   </p>
+  <p>&nbsp; - Jan 22, 2023 - <a href="http://karreiro.com/2023/01/22/navigating-the-world-of-language-servers/">Navigating the world of Language Servers</a></p>
   <p>&nbsp; - Jun 26, 2021 - <a href="http://karreiro.com/2021/06/26/urlotw-the-master-guide-to-smooth-realistic-shadows-in-css/">[URLOTW] The master guide to smooth, realistic shadows in CSS</a></p>
   <p>&nbsp; - Jun 20, 2021 - <a href="http://karreiro.com/2021/06/20/dmn-lives-in-the-kie-group-youtube-channel-part-3/">DMN lives in the KIE Group YouTube channel - Part 3</a></p>
-  <p>&nbsp; - Jun 19, 2021 - <a href="http://karreiro.com/2021/06/19/urlotw-glossary-explain-like-im-five/">[URLOTW] React: Glossary + Explain Like I’m Five</a></p>
   <br />
   <p>
     → <b>Digital garden:</b> <a href="https://karreiro.com/wiki">karreiro.com/wiki</a>
